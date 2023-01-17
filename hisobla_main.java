@@ -17,7 +17,7 @@ public class Main {
         double k = girdi2.nextDouble();
 
 
-        asosiy islemler = new asosiy();
+        bagliclass islemler = new bagliclass();
 
 
 
