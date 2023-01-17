@@ -1,4 +1,4 @@
-public class asosiy   {
+public class bagliclass   {
     public double topal(double a, double b){
         return a+b;
     }
